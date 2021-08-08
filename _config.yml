@@ -20,9 +20,7 @@
 
 title: Lars' Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm Lars, a second year Electrical Engineering major. This blog is mainly going to be an blog of anything interesting I do and any sort of projects I do, as well as an archive of my note taking style and system.
 baseurl: "/Blog-repo" # the subpath of your site, e.g. /blog
 url: "https://larssigno.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
