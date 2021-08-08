@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'm Lars, a second year Electrical Engineering major. This blog is mainly going to be an blog of anything interesting I do and any sort of projects I do, as well as an archive of my note taking style and system.
 baseurl: "/Blog-repo" # the subpath of your site, e.g. /blog
 url: "https://larssigno.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @Lars_signo
+twitter_username: "@Lars_signo"
 github_username:  LarsSigno
 
 # Build settings
