@@ -27,7 +27,7 @@ twitter_username: "@Lars_signo"
 github_username:  LarsSigno
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
